@@ -8,7 +8,7 @@ This project aims to establish a Hadoop cluster for a startup company to analyze
 - Sqoop
 - MySQL
 
-> **Note:** This project was deployed on a virtual machine running Cloudera.
+> **Note:** This project was deployed on a virtual machine running Cloudera. The cluster was preconfigured on the virtual machine.
 
 
 
