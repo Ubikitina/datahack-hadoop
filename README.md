@@ -2,11 +2,15 @@
 
 This project aims to establish a Hadoop cluster for a startup company to analyze the current movie market and derive actionable insights. Leveraging data from a public dataset, [MovieLens](https://grouplens.org/datasets/movielens/), the project is part of the Big Data Architecture & Engineering Master at Datahack.
 
-Technologies used:
+**Technologies used:**
 - Hadoop
 - Hive
 - Sqoop
 - MySQL
+
+> **Note:** This project was deployed on a virtual machine running Cloudera.
+
+
 
 ## Table of contents
   - [1. Hadoop Ingestion, and usage of Hive, Sqoop and MySQL](#1-hadoop-ingestion-and-usage-of-hive-sqoop-and-mysql)
